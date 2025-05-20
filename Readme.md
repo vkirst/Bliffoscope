@@ -1,4 +1,4 @@
-The algorithm is straightforward.
+The algorithm is straightforward..
 
 I compare target object with the data from the radar at each coordinate. I count the number of unmatched pixels and then I make suggestion, that the area with minimum number of unmatched pixels is our target.
 
